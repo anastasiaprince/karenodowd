@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-gb"
-title = "{TITLE}"
+languageCode = "en-ie"
+title = "KAREN O'DOWD"
 
 disableKinds = ["RSS"]
 enableRobotsTXT = true
